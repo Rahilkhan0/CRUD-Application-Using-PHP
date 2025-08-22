@@ -8,13 +8,13 @@ This project demonstrates the basics of database operations in PHP while keeping
 ## 📸 Screenshots
 
 ### 🏠 Home Page (List Users)
-![Home Page](screenshots/home.png)
+![Home Page](image/img1.png)
 
 ### ➕ Add User
-![Add User](screenshots/add.png)
+![Add User](image/img2.png)
 
 ### ✏️ Edit User
-![Edit User](screenshots/edit.png)
+![Edit User](image/img2.png)
 
 ---
 
@@ -37,3 +37,4 @@ This project demonstrates the basics of database operations in PHP while keeping
 ---
 
 ## 📂 Project Structure
+
